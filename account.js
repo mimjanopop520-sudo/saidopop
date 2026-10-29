@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "SAID";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -16,7 +16,7 @@ var telegram_group_link = "telegram group link";
 // =======================================================
 // YOUTUBE CHANNEL LINK
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "YouTube channel link";https://www.youtube.com/@sf.gaming.73
 
 // =======================================================
 // NOTIFICATION TEXT
