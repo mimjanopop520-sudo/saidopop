@@ -1,0 +1,22 @@
+{
+  "logo": null,
+  "ffBanner": null,
+  "banners": null,
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": ""
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@sf.gaming.73"
+    }
+  ],
+  "images": null,
+  "prod": null,
+  "texts": null
+}
