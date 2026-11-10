@@ -20,7 +20,9 @@
       "url": "https://www.youtube.com/@sf.gaming.73"
     }
   ],
-  "images": null,
+  "images": {
+    "pop": "img-pop-1794288294360.png"
+  },
   "prod": null,
   "texts": null
 }
